@@ -5,4 +5,5 @@ Disusun oleh : Kelompok 6 // Mata Kuliah Pengkodean dan Pemrograman (D)
 1. Aprilia Yuliastuti (12030121120050)
 2. Tristiamitha Dali Ardani Al Khoir (12030121120052)
 3. Ghina Sufiyani (12030121120064)
-4. Halena Azura Mumtaz Ardana (!2030121130172)
+4. Halena Azura Mumtaz Ardana (12030121130172)
+
